@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@babylonjs/core": "^7.29.0"
+  }
+}
